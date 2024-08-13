@@ -1,3 +1,6 @@
 xuexi
 creating a new branch is quick
 mingtian
+creating a new branch is quic
+swithch to a new branch 'feature1'
+
